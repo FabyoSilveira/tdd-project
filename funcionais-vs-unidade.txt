@@ -1,0 +1,2 @@
+Testes de unidade testam o código implementado, já testes funcionais testam a aplicação construída com o código implementado.
+Testes de unidade são criados para testar o código da perspectiva do desenvolvedor, já testes funcionais são construídos para testar aplicações na perspectiva do usuário.
