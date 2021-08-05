@@ -1,0 +1,14 @@
+O processo do TDD se dá pelas seguintes etapas:
+
+Escreva um teste de unidade; 
+Rode o teste de unidade;
+Caso ele passe, refatore ou não o código e escreva mais testes;
+Caso ele não passe, complemente o código e repita o teste até que ele passe.
+
+No nosso caso estamos implementando testes funcionais na aplicação e testes de unidade no código.
+Dessa forma nosso processo fica da seguinte forma:
+
+Escreva um teste funcional;
+Rode o teste funcional;
+Caso ele passe, refatore ou não a aplicação e escreva mais testes para o sistema;
+Caso ele não passe, acesse o código e faça todo o processo do TDD descrito acima, até atingir um código funcional.
